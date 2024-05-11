@@ -1,0 +1,23 @@
+.box{
+    width: 162px;
+    height: 235px;
+    border: 1px #5F5F5F;
+    margin-top: 14px;
+    margin-left: 91px;
+}
+h2{
+    color: red;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+img{
+    width: 186px;
+    height: 109px;
+}
+p{
+    color: black;
+    width: 335px;
+    height: 38px;
+    margin-top: 91px;
+    margin-left: 10px;
+}
