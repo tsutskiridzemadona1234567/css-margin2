@@ -1,7 +1,6 @@
 .box{
     width: 162px;
-    height: 235px;
-    border: 1px #5F5F5F;
+    border: 1px #e66666;
     margin-top: 14px;
     margin-left: 91px;
 }
@@ -16,8 +15,5 @@ img{
 }
 p{
     color: black;
-    width: 335px;
-    height: 38px;
-    margin-top: 91px;
-    margin-left: 10px;
+    margin: 0;
 }
